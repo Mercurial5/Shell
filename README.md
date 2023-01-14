@@ -1,6 +1,6 @@
 # Shell
 
-## General Usage
+## List of commands
 
 | Command |       Usage Examples        |       Description        |
 |:-------:|:---------------------------:|:------------------------:|
